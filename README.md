@@ -2,11 +2,25 @@
 
 # Branches
 
-**Interactive tree and DAG visualization for Obsidian Bases.**
+**Interactive Tree, Mind Map, and DAG View for Obsidian Bases.**
 
 Branches adds a "Tree" view to Obsidian's built-in Bases feature, turning flat note collections into navigable, interactive hierarchies. Think family trees, org charts, project breakdowns, taxonomies, or any structure where notes have parent-child relationships.
 
 The plugin draws inspiration from visual mind-mapping tools like MindNode, XMind, Scapple, and Miro, aiming to combine the spatial freedom of a canvas with the structured clarity of an outliner, all inside your Obsidian vault with no data lock-in.
+
+### Spatial (Canvas) View
+#### (Top-to-Bottom Example)
+![tree-view-spatial-top-bottom](https://github.com/user-attachments/assets/adb6f0ef-480f-477b-a2a4-817255e8a85a)
+
+#### (Left-to-Right Example)
+![tree-view-spatial-left-right](https://github.com/user-attachments/assets/09f9b6bf-e0e3-4a16-98f5-3c9bd2476bd2)
+
+#### (Manual Arrangement Example)
+![tree-view-left-right-arrange-manually](https://github.com/user-attachments/assets/d906c0ea-c8e5-4805-a1c0-3e9d655feaa6)
+
+### Indented (List) View
+#### (Base View on Left / Added to Sidebar on Right)
+![tree-view-normal-and-in-sidebar](https://github.com/user-attachments/assets/19424a99-d9f5-4ed5-9c8f-c27c1b7b0962)
 
 
 ---
