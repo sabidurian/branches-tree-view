@@ -2,7 +2,7 @@
 
 # Branches
 
-**Interactive tree and DAG visualization for Obsidian Bases.**
+**Interactive Tree, Mind Map, and DAG View for Obsidian Bases.**
 
 Branches adds a "Tree" view to Obsidian's built-in Bases feature, turning flat note collections into navigable, interactive hierarchies. Think family trees, org charts, project breakdowns, taxonomies, or any structure where notes have parent-child relationships.
 
