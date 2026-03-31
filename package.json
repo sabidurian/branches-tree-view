@@ -1,0 +1,29 @@
+{
+  "name": "branches-tree-view",
+  "version": "0.1.0",
+  "description": "A set of Mind Map / Tree Views for Obsidian Bases.",
+  "main": "main.js",
+  "scripts": {
+    "dev": "node esbuild.config.mjs",
+    "build": "node esbuild.config.mjs production",
+    "test": "npx vitest run"
+  },
+  "keywords": [
+    "obsidian",
+    "bases",
+    "tree",
+    "hierarchy",
+    "visualization"
+  ],
+  "author": "Sabidurian",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^22.0.0",
+    "esbuild": "^0.24.0",
+    "obsidian": "latest",
+    "typescript": "^5.6.0"
+  },
+  "dependencies": {
+    "dagre": "^0.8.5"
+  }
+}

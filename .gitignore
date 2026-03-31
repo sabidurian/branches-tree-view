@@ -1,0 +1,32 @@
+# build output
+main.js
+*.map
+dist/
+
+# dependencies
+node_modules/
+
+# logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# obsidian workspace data
+data.json
+
+# environment variables
+.env
+.env.production
+
+# macOS-specific files
+.DS_Store
+
+# IDE files
+.vscode
+.idea
+*.iml
+
+# claude
+.claude/
+CLAUDE.md
